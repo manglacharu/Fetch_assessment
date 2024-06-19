@@ -11,11 +11,12 @@
 
 **Question 1:** When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
 
-[Include query here]
+![q2_avg_spend](https://github.com/manglacharu/Fetch_assessment/blob/main/q2_avg_spend.jpg "q2_avg_spend")
+
 
 **Question 2:** When considering total number of items purchased from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
+![q2_total_items](https://github.com/manglacharu/Fetch_assessment/blob/main/q2_total_items.jpg "q2_total_items")
 
-[Include query here]
 
 ## Q3. Data Quality Issues
 
@@ -26,6 +27,9 @@
 - In the Brands table, there are inconsistent values for the BrandCode attribute. There are duplicate entries, scientific notations, missing values, miscellaneous data, etc.
 - The barcode values in the receipts table do not match those in the brand table, making it impossible to join these tables, pointing to a fundamental data quality issue related to data consistency and data integration.
 - There are null values and “item not found” in the description attribute of the receipts table.
+
+- ![Q3_dataquality](https://github.com/manglacharu/Fetch_assessment/blob/main/Q3_dataquality%20.jpg "Q3_dataquality")
+
 
 ## Q4. Communicate with Stakeholders
 
