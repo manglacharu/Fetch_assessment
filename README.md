@@ -3,7 +3,7 @@
 
 ## Q1. Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
 
-[Include diagram here]
+[ERD.jpg]
 
 ## Q2. Write queries that directly answer predetermined questions from a business stakeholder
 
