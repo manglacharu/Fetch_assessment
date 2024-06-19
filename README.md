@@ -3,7 +3,7 @@
 
 ## Q1. Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
 
-[https://github.com/manglacharu/Fetch_assessment/blob/main/ERD.jpg]
+![ERD](https://github.com/manglacharu/Fetch_assessment/blob/main/ERD.jpg "ERD")
 
 ## Q2. Write queries that directly answer predetermined questions from a business stakeholder
 
